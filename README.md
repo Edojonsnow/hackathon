@@ -1,1 +1,1 @@
-# Decided to take up the hackathon by Frantz Kati
+hackathon by Frantz Kati
